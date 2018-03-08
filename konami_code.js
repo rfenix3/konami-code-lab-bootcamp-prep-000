@@ -16,7 +16,7 @@ function init() {
       console.log('index: ' + index);
  
       if (index === code.length) {
-        window.alert("Congratulations!");
+        alert("Congratulations!");
       index = 0;
       }
     } else {
